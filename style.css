@@ -1,0 +1,12 @@
+header {
+    background-image: url('images/water.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #fff;
+    font-size: 5rem;
+    text-shadow: 2px 2px 4px #000;
+}
